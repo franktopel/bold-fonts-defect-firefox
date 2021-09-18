@@ -3,6 +3,7 @@ Reproducer to document the bug described in bugzilla
 
 Firefox on Macos does not **render this text bold**.
 
+<hr>
 
 <img width="867" alt="Bildschirmfoto 2021-09-18 um 09 48 35" src="https://user-images.githubusercontent.com/10668603/133881527-ba96e2fe-e577-41d8-b915-45d71d048d2b.png">
 
