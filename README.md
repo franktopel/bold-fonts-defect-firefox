@@ -1,5 +1,5 @@
 # bold-fonts-defect-firefox
-Reproducer to document the bug described in bugzilla
+Reproducer to document the bug described in [bugzilla](https://bugzilla.mozilla.org/show_bug.cgi?id=1731427).
 
 Firefox on Macos does not **render this text bold**.
 
